@@ -39,9 +39,6 @@
             <h1 id="scroll-header">Programming Languages Stats</h1>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcalehub">
             <h1 id="scroll-header">Contact</h1>
-            <img src="https://raw.githubusercontent.com/marcalehub/data-engineer/master/img/git.png" width="20" height="20">
-                <span><a href="https://github.com/marcalehub/data-engineer">GitHub</a></span>
-             |
             <img src="https://raw.githubusercontent.com/marcalehub/data-engineer/master/img/linkedin-icon.png" width="20" height="20">
                 <span><a href="https://www.linkedin.com/in/marcosdevargas">LinkedIn</a></span>
              |
